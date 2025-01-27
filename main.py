@@ -103,5 +103,5 @@ def main(image_path):
 
 
 if __name__ == "__main__":
-    image_file = "20241227_163205.jpg"  # Replace with your image file
+    image_file = "image.jpg"  # Replace with your image file
     main(image_file)
